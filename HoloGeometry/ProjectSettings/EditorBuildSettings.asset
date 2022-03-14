@@ -15,6 +15,6 @@ EditorBuildSettings:
     path: Assets/Scenes/LearnMenu.unity
     guid: 6abbfe7ded77b824fa5219b0f85a8e85
   - enabled: 1
-    path: Assets/Scenes/CubeDescription.unity
+    path: Assets/Scenes/GeometricBodyDescription.unity
     guid: 0df012f00c65774468c66e90bb382d2c
   m_configObjects: {}
