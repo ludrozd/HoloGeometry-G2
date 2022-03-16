@@ -14,6 +14,8 @@ public class Earth : MonoBehaviour {
         rotateBody(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
         if (Input.GetKey(KeyCode.Space))
             returnToStartingPosition();
+        if (Input.GetKey(KeyCode.Escape))
+            SceneManagment.ChangeScene("LearnMenu");
     }
 
     void rotateBody(float moveHorizontal, float moveVertical)
