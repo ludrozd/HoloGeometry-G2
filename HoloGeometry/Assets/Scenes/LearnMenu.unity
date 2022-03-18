@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657874, g: 0.49641258, b: 0.5748172, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -391,7 +391,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 770, y: -214}
+  m_AnchoredPosition: {x: 826, y: -214}
   m_SizeDelta: {x: 160, y: 160}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &641589883
@@ -785,8 +785,8 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 1176744322}
-  - {fileID: 1840056650}
   - {fileID: 1260723705}
+  - {fileID: 1840056650}
   - {fileID: 1182714165}
   - {fileID: 641589882}
   m_Father: {fileID: 0}
@@ -990,7 +990,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 231, y: -214}
+  m_AnchoredPosition: {x: 251, y: -214}
   m_SizeDelta: {x: 160, y: 160}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1182714166
@@ -1007,9 +1007,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   button: {fileID: 1182714168}
   nameOfBody: Sphere
-  description: A sphere is a geometrical object that is a three-dimensional analogue
-    to a two-dimensional circle.  A sphere is the set of points that are all at the
-    same distance r from a given point in three-dimensional space.
+  description: This is a SPHERE. Sphere is a three dimensional version of a circle.
+    Every point on it's surface has the same distance from a single point called
+    the center.
 --- !u!114 &1182714167
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1149,7 +1149,7 @@ RectTransform:
   m_Children:
   - {fileID: 127730436}
   m_Father: {fileID: 777221795}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: -2.657, y: 0.97, z: 180.537}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
@@ -1447,11 +1447,11 @@ RectTransform:
   - {fileID: 1452503331}
   - {fileID: 1892783055}
   m_Father: {fileID: 777221795}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 500, y: -214}
+  m_AnchoredPosition: {x: 540, y: -214}
   m_SizeDelta: {x: 160, y: 160}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1840056651
