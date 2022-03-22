@@ -1,7 +1,9 @@
 # HoloGeometry 
 
 ## HoloGeometry
-This  application  is  intended  to  help  people with disabilities in learning  geometry objects.
+This  application  is  intended  to  help  people with disabilities in learning  geometric objects. <br/> 
+It aims to teach people geometric shapes through learning, recognizing and evaluating. <br/>
+The app is used with the keyboard attached to android device. 
 
 ## Prerequisites
 - The project was built in [Unity](https://unity.com/).<br/>
@@ -15,10 +17,10 @@ git clone https://github.com/ludrozd/HoloGeometry-G2.git
 ```
 ## Team
 - Emmanuelle Bodji-Content creator
-- Lucija Drozd - Developer
-- Sofira Ferreira - Content creator
-- Dorra Jaouad - Content creator
-- Mato Tikvica - Developer
+- Lucija Drozd - Frontend, backend Developer
+- Sofia Ferreira - Content creator
+- Dorra Jaouad - Designer
+- Mato Tikvica - Team leader, Developer
 
 ## Acknowledgments
 - [MadFish Games](https://assetstore.unity.com/packages/tools/hologram-pyramid-61735)
