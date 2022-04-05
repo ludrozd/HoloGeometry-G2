@@ -24,7 +24,7 @@ public class ButtonTextChange : MonoBehaviour
 	
 	public void ChangeFontSize(){
 		if (x == 1){
-			text.fontSize = 35;
+			text.fontSize = 32;
 			x = 0;
 		} else {
 			text.fontSize = 28;

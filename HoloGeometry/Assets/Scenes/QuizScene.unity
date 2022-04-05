@@ -1220,27 +1220,76 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   QnA:
-  - Question: Glavi grad Hrv?
+  - Question: What is the base of the cone?
     Answers:
-    - Zagreb
-    - Rijeka
-    - Karlovac
-    - Split
-    CorrectAnswer: 1
-  - Question: Glavni grad Spanjolske
-    Answers:
-    - Sevilla
-    - Barcelona
-    - Madrid
-    - Valencia
-    CorrectAnswer: 3
-  - Question: Glavni grad Francuske?
-    Answers:
-    - Brest
-    - Paris
-    - Marseille
-    - Cannes
+    - Square
+    - Circle
+    - Rectangle
+    - Triangle
     CorrectAnswer: 2
+  - Question: Which object is like a sphere?
+    Answers:
+    - Earth
+    - Car
+    - Table
+    - Pencil
+    CorrectAnswer: 1
+  - Question: What is the shape of a tomato can?
+    Answers:
+    - Cube
+    - Cone
+    - Cylinder
+    - Sphere
+    CorrectAnswer: 3
+  - Question: How many faces does cube have?
+    Answers:
+    - 9
+    - 2
+    - 5
+    - 6
+    CorrectAnswer: 4
+  - Question: Which object is a cone shaped?
+    Answers:
+    - Birthday hat
+    - Chair
+    - Table
+    - Ball
+    CorrectAnswer: 1
+  - Question: How many curved surfaces does cylinder have?
+    Answers:
+    - 1
+    - 2
+    - 3
+    - 4
+    CorrectAnswer: 1
+  - Question: How many curved surfaces does sphere have?
+    Answers:
+    - 1
+    - 2
+    - 3
+    - 4
+    CorrectAnswer: 1
+  - Question: How many plane surfaces does cylinder have?
+    Answers:
+    - 1
+    - 2
+    - 3
+    - 4
+    CorrectAnswer: 2
+  - Question: How many plane surfaces does cone have?
+    Answers:
+    - 1
+    - 2
+    - 3
+    - 4
+    CorrectAnswer: 1
+  - Question: What is the shape of cereal box?
+    Answers:
+    - Cone
+    - Sphere
+    - Cylinder
+    - Cuboid
+    CorrectAnswer: 4
   options:
   - {fileID: 1701449260}
   - {fileID: 1753567652}
