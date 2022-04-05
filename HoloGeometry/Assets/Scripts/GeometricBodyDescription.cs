@@ -6,6 +6,8 @@ public class GeometricBodyDescription : MonoBehaviour
     public Button button;
     public string nameOfBody;
     public string description;
+    public AudioClip audio;
+    public static AudioClip audioDescription;
     public static string nameOfGeometricBody;
     public static string descriptionOfGeometricBody;
     private void Start()
@@ -17,5 +19,7 @@ public class GeometricBodyDescription : MonoBehaviour
     {
         nameOfGeometricBody = nameOfBody;
         descriptionOfGeometricBody = description;
+        audioDescription = audio;
+
     }
 }

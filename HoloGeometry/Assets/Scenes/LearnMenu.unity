@@ -564,6 +564,7 @@ MonoBehaviour:
   nameOfBody: Cuboid
   description: This is a CUBOID. Cuboid is similar to a cube, but two of his sides
     are squares and four are rectangles. As an example of a cuboid, we have a brick.
+  audioDescription: {fileID: 8300000, guid: 7f065c3bfc55122479ed7dfc181a7aa2, type: 3}
 --- !u!114 &641589884
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1011,6 +1012,7 @@ MonoBehaviour:
   description: This is a CYLINDER. Cylinder is an elongated and rounded geometric
     solid having two circular bases at its ends. As an example of a cylinder we have
     the soda can.
+  audioDescription: {fileID: 8300000, guid: b66cf501721c93a4d8656946071a8185, type: 3}
 --- !u!114 &874414024
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1330,6 +1332,7 @@ MonoBehaviour:
   description: This is a SPHERE. Sphere is a three dimensional version of a circle.
     Every point on it's surface has the same distance from a single point called
     the center. As an example of sphere we have a soccer ball.
+  audioDescription: {fileID: 8300000, guid: 6d0cca2c496f0eb44bc4d96b0a262dad, type: 3}
 --- !u!114 &1182714167
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1866,6 +1869,7 @@ MonoBehaviour:
   description: This is a CONE. Cone consists of a circle as a base and one curved
     surface constructed from the rotation of a triangle. As an example of a cone,
     we have the cone of an ice cream.
+  audioDescription: {fileID: 8300000, guid: e737906f0d57b1340b75ffba6072725b, type: 3}
 --- !u!114 &1686533695
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2125,6 +2129,7 @@ MonoBehaviour:
   description: This is a CUBE. Cube is a geometric body bounded by six equal flat
     surfaces. The surfaces that a cube consists of are called squares. As an example
     of cube we have dices.
+  audioDescription: {fileID: 8300000, guid: 516d4cb2b9e484e48aa6df6207f4de73, type: 3}
 --- !u!114 &1840056655
 MonoBehaviour:
   m_ObjectHideFlags: 0
