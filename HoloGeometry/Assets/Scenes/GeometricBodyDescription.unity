@@ -157,8 +157,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 4.9999957, y: 21}
-  m_SizeDelta: {x: 700, y: 300}
+  m_AnchoredPosition: {x: 4.9999957, y: 52}
+  m_SizeDelta: {x: 1000, y: 500}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &50912847
 MonoBehaviour:
@@ -194,7 +194,8 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "To open Hologram click on \n\t\nFirst place pyramid piece on marked spot\n\nControl
-    geometrical object with arrow keys on your keyboard"
+    geometrical object with arrow keys on your keyboard\n\nChanging color is available
+    by pressing color buttons on the left side of the screen"
 --- !u!222 &50912848
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1305,7 +1306,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 244, y: 106}
+  m_AnchoredPosition: {x: 251, y: 167}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1194472155

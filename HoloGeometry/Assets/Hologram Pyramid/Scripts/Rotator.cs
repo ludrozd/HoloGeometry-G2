@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Earth : MonoBehaviour {
+public class Rotator : MonoBehaviour {
     [SerializeField] float Speed = 35.0f;
     Quaternion originalRotationValue;
     private void Start()
