@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/QuizScene.unity
     guid: 90cff8038eae6454a966c2c337bf3ded
+  - enabled: 1
+    path: Assets/Hologram Pyramid/Scene/RecognizeScene.unity
+    guid: e14816db823c6f24eaf421c1bbe1c7d6
   m_configObjects: {}
