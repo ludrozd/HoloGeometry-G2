@@ -1269,13 +1269,13 @@ MonoBehaviour:
     - 3
     - 4
     CorrectAnswer: 1
-  - Question: How many plane surfaces does cylinder have?
+  - Question: How many plane surfaces does sphere have?
     Answers:
+    - 0
     - 1
     - 2
     - 3
-    - 4
-    CorrectAnswer: 2
+    CorrectAnswer: 1
   - Question: How many plane surfaces does cone have?
     Answers:
     - 1
